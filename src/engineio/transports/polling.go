@@ -1,6 +1,0 @@
-package engineio
-
-import (
-
-)
-
